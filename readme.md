@@ -1,5 +1,5 @@
 # READ ME
-**Web Scraper** is a simple web scraper showing how to grab article title and link data from websites. This is best used for websites that contained curated posts or articlees like a news or publication website. In this example, I used The Verge, but is compatible with any website. 
+**Web Scraper** is a lightweight web scraper showing how to grab article title and link data from websites. This is best used for websites that contain curated posts or articles like news or publication websites.
 
 Built with:
 ```
